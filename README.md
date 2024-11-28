@@ -18,9 +18,11 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-Connect with me on:
+### Connect with me on:
+
 [![Linkedin: dawid-szewc](https://img.shields.io/badge/-DawidSzewc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawid-szewc/)](https://www.linkedin.com/in/dawid-szewc/) [![GitHub dawid-szewc](https://img.shields.io/github/followers/dawid-szewc?label=follow&style=social)](https://github.com/dawid-szewc)
 
+### My stack:
 <table>
   <tr>
     <td align="center" width="96">
