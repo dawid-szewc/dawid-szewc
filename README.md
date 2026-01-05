@@ -1,18 +1,50 @@
 # Dawid Szewc
 
-Embedded Systems Engineer specializing in AI tooling and automation.
+Embedded Systems Engineer | Self-Hosted AI Infrastructure
 
-## Focus Areas
-- Local AI infrastructure (LLM serving, multi-agent systems)
-- Embedded systems development (C++, Python)
-- Homelab automation and orchestration
+## What I Do
 
-## Current Work
-- Building local AI workflows for code analysis and documentation
-- Multi-agent architectures for embedded systems development
-- Self-hosted LLM infrastructure (LM Studio, MLX)
+Building local AI workflows for embedded systems development - code analysis, documentation generation, and multi-agent architectures. Focus on privacy, cost efficiency, and self-hosted solutions.
+
+## Infrastructure
+
+### Compute
+- **Mac Studio M2 Ultra** (64GB unified memory) - Primary LLM inference node
+  - Serving: LM Studio, MLX-LM
+  - Models: Qwen3-Next 80B, Nemotron 3 Nano 30B, Qwen3 Coder 30B
+- **Razer Blade 15** (i7-12800H, 64GB DDR5, RTX 3070 Ti) - GPU workloads, development
+- **Firebat MN56** (Ryzen 7 8745HS, 32GB DDR5) - Helper node
+- **Beelink SER5-MAX** (Ryzen 7 6800U, 32GB DDR5) - Proxmox homelab core
+
+### Network
+- TP-Link Omada Smart SG2008 managed switch
+- AdGuard for local DNS
+- WireGuard VPN (VPS gateway) - secure remote access to homelab
+- Docker/LXC containerization
+
+## Current Focus
+
+**Workflows**
+- Code analysis with large context windows (128k+ tokens)
+- RAG pipelines for technical documentation
+- Learning agents orchestraition tools like Autogen, Langchain
 
 ## Tech Stack
-Embedded: C++, C, Python | AI/ML: LLM serving, RAG, agent architectures | Infrastructure: Proxmox, Docker, Linux
 
-[LinkedIn] [Contact]
+- **Languages**: C++, Python, Bash
+- **AI/ML**: LM Studio, Ollama, AnythingLLM, Open Web UI
+- **Infrastructure**: Proxmox, Docker, Linux (Debian, Ubuntu, macOS)
+- **Embedded**: Firmware development, hardware integration
+- **Workflow**: Neovim, tmux, Git, Zsh
+
+## Active projects
+
+- **Local AI Infrastructure**: Self-hosted LLM serving with privacy-first approach
+- **Homelab Automation**: Orchestration and monitoring for distributed inference
+
+---
+
+**Location**: Bydgoszcz, Poland  
+**Languages**: Polish (native), English (C1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawid-szewc)
