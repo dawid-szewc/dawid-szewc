@@ -1,77 +1,18 @@
-# 👋 Hey there, I'm Dawid!
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+# Dawid Szewc
 
+Embedded Systems Engineer specializing in AI tooling and automation.
 
-class SoftwareEngineer:
+## Focus Areas
+- Local AI infrastructure (LLM serving, multi-agent systems)
+- Embedded systems development (C++, Python)
+- Homelab automation and orchestration
 
-    def __init__(self):
-        self.name = "Dawid Szewc"
-        self.role = "Software Engineer"
-        self.language_spoken =  ["pl_PL", "en_US"]
+## Current Work
+- Building local AI workflows for code analysis and documentation
+- Multi-agent architectures for embedded systems development
+- Self-hosted LLM infrastructure (LM Studio, MLX)
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+## Tech Stack
+Embedded: C++, C, Python | AI/ML: LLM serving, RAG, agent architectures | Infrastructure: Proxmox, Docker, Linux
 
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-### Connect with me on:
-
-[![Linkedin: dawid-szewc](https://img.shields.io/badge/-DawidSzewc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawid-szewc/)](https://www.linkedin.com/in/dawid-szewc/) [![GitHub dawid-szewc](https://img.shields.io/github/followers/dawid-szewc?label=follow&style=social)](https://github.com/dawid-szewc)
-
-### My stack:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="./img/python.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="./img/linux.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="./img/cpp.png" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="./img/c.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="" >
-        <img src="/img/bash.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96"> 
-      <a href="" >
-        <img src="./img/opencv.png" width="48" height="48" alt="OpenCV" />
-      </a>
-      <br>OpenCV
-    </td>
-    <td align="center"  width="96">
-      <a href="">
-        <img src="./img/vue.png" width="48" height="48" alt="Vue3" />
-      </a>
-      <br>Vue3
-    </td>
-    <td align="center" width="96">
-      <a href="" >
-        <img src="./img/js.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
+[LinkedIn] [Contact]
