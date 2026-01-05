@@ -4,7 +4,7 @@ Embedded Systems Engineer | Self-Hosted AI Infrastructure
 
 ## What I Do
 
-Building local AI workflows for embedded systems development - code analysis, documentation generation, and multi-agent architectures. Focus on privacy, cost efficiency, and self-hosted solutions.
+Embedded systems development and maintenance. Building local AI workflows for code analysis, documentation, and automation. Focus on privacy, cost efficiency, and self-hosted solutions.
 
 ## Infrastructure
 
